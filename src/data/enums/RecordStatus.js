@@ -1,0 +1,8 @@
+const RECORD_STATUS = {
+  RECEIVED: 'RECEIVED',
+  APPROVED: 'APPROVED',
+};
+
+export { RECORD_STATUS };
+
+export default RECORD_STATUS;
